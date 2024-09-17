@@ -6,6 +6,11 @@ header {
   background-position: left;
 }
 
+center > h1 {
+  margin-bottom: 0;
+  padding: 20px;
+}
+
 .seccion-1{
   display: flex;
   justify-content: flex-start;
@@ -27,6 +32,7 @@ header {
   margin: 0 auto; 
   width: 199px;
   height: 237px;
+  border-radius: 9px;
 }
 
 
